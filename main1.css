@@ -1,0 +1,112 @@
+body{
+    position: relative;
+    left:50px;
+    margin: 50px 0px  0px 0px; 
+
+}
+*{
+    box-sizing: border-box;
+}
+
+.h1{
+    color:#39DAC7;font-weight: bolder;
+    font-size: 25px;
+
+}
+ .h1::first-letter{
+    font-display:inherit;
+    font: size 20px;
+    font-family:  Arial, Helvetica, sans-serif;
+
+    
+} 
+.h1{
+ font-family:  Arial, Helvetica, sans-serif;
+}
+.p1{
+ color:#91F02C;
+ font-weight: bold;
+ font-size: 20px;
+}
+.p2::first-letter{
+    font-weight: bold;
+}
+
+.p2{
+    color:rgb(141, 137, 137);
+}
+.change{
+    background-color: #16A085;
+    color: white;
+    font-weight:normal;
+    padding: 50px ; 
+    width:400px;
+    height: 400px;
+    float: left;
+    margin: 5px 0px 0px 0px;
+    }
+.p3{
+    
+    font-weight: bold;
+    font-size:30px;
+}
+.span{
+    font-size: 20px;
+    position: relative;
+    opacity: 0.5;
+   
+}
+.two{
+ font-size: 40px;
+ font-family:'Times New Roman', Times, serif;
+ font-weight: bold;
+}
+.float{
+    float:left;
+}
+.bold{
+    
+    font-size: 20px;;
+}
+#button{
+     background-color:#91F02C;
+     width:300px;
+     height:60px;
+     font:20px;
+     padding: 10px 20px 10px 20px;
+     color:white;
+    border-radius: 10%;
+    border: 0;
+   float:left;
+    text-align: center;
+    font-weight:norm;
+    
+}
+.box{
+     width:80%; 
+    height:400px; 
+    background-color:#1ABC9C ;
+    padding: 50px ; 
+    color: white;
+    float:left;
+    position:absolute;
+    /* bottom: 1px; */
+    left:400px;
+    top:145spx;
+    
+    margin: 5px 0px 0px 0px; 
+}
+.h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    }
+#tut{
+    
+    font-size: 25px;
+    position: relative;
+    opacity: 0.5;
+    text-align: justify;
+}
+
+    
+        
